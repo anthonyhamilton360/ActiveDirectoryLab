@@ -4,27 +4,30 @@
 
 </p>
 
-<h1>Preparing AD Infrastructure in Azure</h1>
-This tutorial explores creating user accounts in an Active Directory environment, from creation and management to deactivation and removal.<br />
+<h1>Preparing AD Infrastructure in (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Powershell
+- Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows Server 2022
+- Windows 10 (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Item 1 
-- Item 2
-- Item 3
-- Item 4
+- Step 1
+- Step 2
+- Step 3
+- Step 4
 
-<h2>Lifecycle Stages</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
