@@ -635,6 +635,6 @@ In Azure go back to virtual machines, select both vms, click on the three dots a
 
 </p>
 <p>
-Select Yes.
+To conclude this lab, select Yes.
 </p>
 <br />
