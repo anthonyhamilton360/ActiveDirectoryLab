@@ -169,7 +169,7 @@ The Active-DirectoryVnet was deployed successfully.
 
 </p>
 <p>
-In the Networking Tab select the Active-DirectoryVnet. Other settinfgs should be left as is.
+In the Networking Tab select the Active-DirectoryVnet. Other settings should be left as is.
 </p>
 <br />
 
@@ -222,7 +222,7 @@ Next, create another virtual machine for the client.
 
 </p>
 <p>
-Set the Active-Directory-Lab as the resource group, name the virtual machineand set the region. All other settings are left as is.
+Set the Active-Directory-Lab as the resource group, name the virtual machine and set the region. All other settings are left as is.
 </p>
 <br />
 
@@ -243,7 +243,7 @@ Set the size to at least 2 cores with 8GB of memory.
 
 </p>
 <p>
-The image should be Windows 10 Pro version 22H2 x64 Gen2. In the Administrator account sectionset the username and password. After all the settings are set, review and create.
+The image should be Windows 10 Pro version 22H2 x64 Gen2. In the Administrator account section set the username and password. After all the settings are set, review and create.
 </p>
 <br />
 
