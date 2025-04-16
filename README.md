@@ -86,7 +86,7 @@ The resource group has been created succesfully.
 
 </p>
 <p>
-Next, search for "Virtual networks"to manually create the virtual network for the domain controller.
+Next, search for "Virtual networks" to manually create the virtual network for the domain controller.
 </p>
 <br />
 
@@ -116,7 +116,7 @@ Create the first virtual machine for the domain controller.
 
 </p>
 <p>
-Rename the vm to dc-1 and make cure the reigon is the same as the Active-Directory-Lab resource group.
+Rename the vm to dc-1 and make sure the reigon is the same as the Active-Directory-Lab resource group.
 </p>
 <br />
 
@@ -495,7 +495,7 @@ Click on the Network interface/ IP configuration.
 
 </p>
 <p>
-In the settings tab, go to DNS servers. It shows that the DNS servers is inherited fromthe virtual network.
+In the settings tab, go to DNS servers. It shows that the DNS servers is inherited from the virtual network.
 </p>
 <br />
 
